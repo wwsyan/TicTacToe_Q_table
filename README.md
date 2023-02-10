@@ -18,12 +18,8 @@ See code [here](https://github.com/wwsyan/TicTacToe_Q_table/blob/main/tictactoe_
 Play TicTacToe based on a well-trained <code>Q_table_dict</code>.
 See code [here](https://github.com/wwsyan/TicTacToe_Q_table/blob/main/tictactoe_qtable/TicTacToe%20Game.py).
 
-| Agent vs Agent |
-| :---: |
-|![](images/tictactoe_agent_vs_agent.gif)|
-
-| Human vs Agent |
-| :---: |
-|![](images/tictactoe_human_vs_agent.gif)|
-
+| Performance | Mode |
+| :---: | :---: |
+| <img src="images/tictactoe_agent_vs_agent.gif" width="70%" height="70%"> | Agent vs Agent |
+| <img src="images/tictactoe_human_vs_agent.gif" width="70%" height="70%"> | Human vs Agent |
 
