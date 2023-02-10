@@ -1,5 +1,5 @@
 # TicTacToe_Q_table
-Playing TicTacToe by tabular Q-Learning
+Playing TicTacToe by **tabular Q-Learning**.
 
 Require: <code>pip install pygame</code>
 
