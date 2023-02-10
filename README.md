@@ -16,6 +16,7 @@ See code [here](https://github.com/wwsyan/TicTacToe_Q_table/blob/main/tictactoe_
 
 ## Game UI
 Play TicTacToe based on a well-trained <code>Q_table_dict</code>.
+See code [here](https://github.com/wwsyan/TicTacToe_Q_table/blob/main/tictactoe_qtable/TicTacToe%20Game.py).
 
 | Agent vs Agent |
 | :---: |
