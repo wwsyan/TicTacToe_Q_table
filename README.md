@@ -9,7 +9,7 @@ Test enviroment: [here](https://github.com/wwsyan/TicTacToe_Q_table/blob/main/ti
 
 | Random step test |
 | :---: |
-|![](images/tictactoe_random.gif)|
+|<img src="images/tictactoe_random.gif" width="70%" height="70%">|
 
 ## Tabular Q-Learning traning process
 See code [here](https://github.com/wwsyan/TicTacToe_Q_table/blob/main/tictactoe_qtable/Table%20QLearning%20play%20TicTacToe.py).
