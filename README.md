@@ -20,6 +20,6 @@ See code [here](https://github.com/wwsyan/TicTacToe_Q_table/blob/main/tictactoe_
 
 | Performance | Mode |
 | :---: | :---: |
-| <img src="images/tictactoe_agent_vs_agent.gif" width="80%" height="80%"> | Agent vs Agent |
-| <img src="images/tictactoe_human_vs_agent.gif" width="80%" height="80%"> | Human vs Agent |
+| <img src="images/tictactoe_agent_vs_agent.gif" width="70%" height="70%"> | Agent vs Agent |
+| <img src="images/tictactoe_human_vs_agent.gif" width="70%" height="70%"> | Human vs Agent |
 
